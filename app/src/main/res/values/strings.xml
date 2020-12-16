@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Aplicativo CRUD</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_create_subject">CreateSubjectActivity</string>
+    <string name="state">Estado</string>
+    <string name="cross_image_content_description">Delete planta from SQLite database</string>
+    <string name="empty_planta_list_message">Lista de plantas vacía!</string>
+    <string name="planta_name">Nombre de planta</string>
+    <string name="update">Actualizar</string>
+    <string name="cancel_button">Cancelar</string>
+    <string name="create_button">Crear</string>
+    <string name="all_delete">Todos eliminados</string>
+    <string name="edit_button_description">Edit Single planta information</string>
+    <!-- LINEA-->
+    <string name="linea_name">Nombre de la Linea</string>
+    <string name="empty_linea_list_message">Lista de Lineas de producción vacia!</string>
+</resources>
