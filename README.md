@@ -1,4 +1,4 @@
-##Aplicativo CRUD de Maquinarias
+#Aplicativo CRUD de Maquinarias
 
 Desarrolladores: 
 - Kevin Quiñones
